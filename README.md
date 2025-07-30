@@ -1,17 +1,18 @@
-<h1> <img align="center" src="mimkyuGif2.gif" style="height: 50px;"> Hi there, i'm Arthur Duarte (aka ATurys or Turys)</h1>
+<h1> <img align="center" src="mimkyuGif1.gif" style = "height: 50px;"> Hi there, i'm Arthur Duarte (aka ATurys or Turys)</h1>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ATurys&show_icons=true&theme=dark&bg_color=00000000&hide_rank=true#gh-dark-mode-only">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATurys&layout=compact&theme=dark&bg_color=00000000&#gh-dark-mode-only">
-  <img align="right" src="mimkyuGif1.gif" style = "width: 230px;">
 </div> <br>
 
 
 <div style="display: inline_block">
-  <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Arthur-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" src="mimkyuGif2.gif" style="height: 50px;">
+  <img align="center" alt="Arthur-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Arthur-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Arthur-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Arthur-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Arthur-Python" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" src="mimkyuGif2.gif" style="height: 50px;">
 </div>
 
  ##
