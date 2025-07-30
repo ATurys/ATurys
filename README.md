@@ -2,7 +2,8 @@
 
 [![ATurys GitHub stats](https://github-readme-stats.vercel.app/api?username=ATurys&show_icons=true&theme=dark&bg_color=00000000&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![ATurys GitHub stats](https://github-readme-stats.vercel.app/api?username=ATurys&show_icons=true&theme=dark&bg_color=00000000&hide_rank=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-<img align="right" src="mimkyuGif1.gif" style = "height: 240px;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ATurys&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="mimkyuGif1.gif" style = "height: 250px;">
 
 <div style="display: inline_block">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
